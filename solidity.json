@@ -45,7 +45,7 @@
 		"prefix": "contract2",
 		"body": [
 			"contract ${1:ContractName} is ${2:BaseContract1}, ${3:BaseContract2} {",
-			"    $0",
+			"    $0",  
 			"}"
 		],
 		"description": "Insert a Solidity contract with multiple inheritance"
